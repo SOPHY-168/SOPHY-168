@@ -1,43 +1,69 @@
-# 🚀 Hi, I'm ML
+# 🚀 Hi, I'm Sophy
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00C2FF&center=true&vCenter=true&lines=Full+Stack+Developer;NestJS+%7C+Nuxt+Expert;Building+ERP+Systems;Docker+%7C+CI%2FCD+Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00C2FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;NestJS+%7C+Nuxt+3+Specialist;ERP+System+Architect;Docker+%7C+CI%2FCD+Engineer;Building+Scalable+Enterprise+Systems" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-* 🏢 Working on **MongkulBiz ERP System**
-* ⚡ Specialized in **NestJS + Nuxt 3**
-* 🧠 Strong in **System Design & Workflow**
-* 🐳 DevOps with **Docker & CI/CD**
-* 🌏 Based in Cambodia
+- 🎂 Age: **21 years old**
+- 💼 Role: **Web Developer**
+- 🏢 Currently building: **MongkulBiz ERP System**
+- ⚡ Specialization: **NestJS + Nuxt 3**
+- 🧠 Strong in: **System Design, Workflow Engine, RBAC**
+- 🐳 DevOps: **Docker, CI/CD, Production Deployment**
+- 🌍 Location: **Phnom Penh, Cambodia**
+
+---
+
+## 🧠 What I Do
+
+- 🏗 Build **Enterprise ERP Systems**
+- 🔄 Design **Dynamic Approval Workflows**
+- 📦 Develop **Inventory & Procurement Systems**
+- 🧾 Implement **Financial & Accounting Modules**
+- 🚀 Optimize **Backend Performance & Scalability**
 
 ---
 
 ## 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nestjs,nodejs,vue,nuxt,ts,js,postgres,mysql,docker,git,linux" />
+  <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,nodejs,nestjs,vue,nuxt,php,laravel,postgres,mysql,docker,git,linux,redis" />
 </p>
 
 ---
 
-## 🚀 Current Projects
+## 🏗 Architecture Focus
 
-* 🏗 **MongkulBiz ERP System**
-* 📦 Purchase & Inventory Management
-* 🔄 Approval Workflow System
-* 🧾 Financial & Accounting Module
+- 🧩 Modular System Design (Microservice-ready)
+- 🔐 Role-Based Access Control (RBAC)
+- 🔄 Workflow Engine (Multi-level Approval)
+- 📊 Real-time Dashboard & Reporting
+- 📦 Clean API Design (RESTful + scalable)
 
 ---
 
-## 📊 GitHub Stats
+## 🚀 Key Projects
+
+### 🏢 MongkulBiz ERP System
+- Full Enterprise Resource Planning System
+- Modules:
+  - 📦 Purchase & Inventory
+  - 🧾 Accounting & Finance
+  - 🏗 Project Development
+  - 👥 CRM & Sales
+- Tech: **NestJS + Nuxt 3 + PostgreSQL + Docker**
+
+---
+
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SOPHY-168&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SOPHY-168&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
 </p>
 
 ---
@@ -45,24 +71,33 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=SOPHY-168&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
 ## 🏆 Achievements
 
-* 🚀 Built **Enterprise ERP System**
-* 🧠 Designed **Dynamic Approval Workflow**
-* 🐳 Dockerized Production System
-* ⚡ Optimized Backend Performance
+- 🚀 Built **Enterprise ERP Platform**
+- 🧠 Designed **Dynamic Approval Workflow System**
+- 🐳 Dockerized Full Production Infrastructure
+- ⚡ Improved API Performance & Scalability
+- 🔐 Implemented Advanced RBAC System
 
 ---
 
-## 🎯 Fun Section (Animation)
+## 🎯 Fun Section
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=SOPHY-168&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=15"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SOPHY-168/SOPHY-168/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
@@ -70,20 +105,23 @@
 ## 📫 Contact Me
 
 <p align="center">
-  <a href="mailto:your@email.com">
+  <a href="mailto:emsophy80@gmail.com">
     <img src="https://img.shields.io/badge/Email-00C2FF?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/SOPHY-168">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="tel:0967841659">
+    <img src="https://img.shields.io/badge/Phone-00C2FF?style=for-the-badge&logo=phone&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-## 👀 Visitor Count
+## 👀 Visitor Counter
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=00C2FF&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=SOPHY-168&label=Profile+Views&color=00C2FF&style=for-the-badge" />
 </p>
 
 ---
@@ -93,6 +131,12 @@
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
+
+---
+
+## 🧭 Career Vision
+
+> I am to become a **Senior System Architect**, building scalable enterprise systems that solve real-world business problems.
 
 ---
 
