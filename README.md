@@ -86,19 +86,12 @@
 
 ---
 
-## 🎯 Fun Section
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SOPHY-168&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=15"/>
-</p>
-
----
-
 ## 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/SOPHY-168/SOPHY-168/output/github-contribution-grid-snake.svg" />
 </p>
+
 
 ---
 
